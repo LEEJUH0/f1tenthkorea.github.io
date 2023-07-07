@@ -1,0 +1,22 @@
+kramdown:
+  header_offset: 2
+
+navigation:
+  - about: 
+    text: "Welcome!"
+    url: "index.html"
+    section: "Welcome!"
+    display: true
+
+  - race: 
+    text: "Race"
+    url: "race.html"
+    section: "Race"
+    display: true
+
+  - bootcamp: 
+    text: "Bootcamp"
+    url: "bootcamp.html"
+    section: "Bootcamp"
+    display: true
+  
